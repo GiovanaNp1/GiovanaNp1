@@ -26,11 +26,9 @@ class Skills extends Desenvolvedor {
 
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  <strong> 🦄 Meus Badges: </strong>
+  <!--START_SECTION:badges-->
+  <!--END_SECTION:badges-->
 </p>
 
 <p align="left">
