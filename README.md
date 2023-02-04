@@ -48,13 +48,6 @@ class Skills extends Desenvolvedor {
   <a href="https://www.instagram.com/giovananp/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
-
-<a href="https://github.com/GiovanaNp1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/GiovanaNp1">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 
