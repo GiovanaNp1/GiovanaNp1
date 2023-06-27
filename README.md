@@ -54,12 +54,12 @@ class Skills extends Desenvolvedor {
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<img align="left" height="94px" width="94px" alt="IBM" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/2560px-IBM_logo.svg.png">
+<img align="left" width="94px" alt="IBM" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/2560px-IBM_logo.svg.png">
 
 **Software Engineer** \
 [**IBM**](http://ibm.com/) • Full-time \
 Linguagens & Tecnologias: `Python`, `Java`, `Testes de Software`, `JavaScript`, `CI-CD`, `Agile`,\
-Projetos em destaque: [](https://www.spacex.com/), [](https://pt.wikipedia.org/wiki/Marte_(planeta))
+Projetos em destaque: [](https://www.spacex.com/) [](https://pt.wikipedia.org/wiki/Marte_(planeta))
 <br/>
 
 
