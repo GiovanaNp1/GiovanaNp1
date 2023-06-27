@@ -54,7 +54,7 @@ class Skills extends Desenvolvedor {
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="IBM" src="https://media-exp1.licdn.com/dms/image/C560BAQE9wp87-KDfwg/company-logo_200_200/0/1657054972290?e=1672272000&v=beta&t=OWxFd3-xlAWL5AVNxe4ARY_WLWq8ubbr-9TUqJqKFQE"/>](http://ibm.com/)
+[<img align="left" height="94px" width="94px" alt="IBM" src="https://media-exp1.licdn.com/dms/image/C560BAQE9wp87-KDfwg/company-logo_200_200/0/1657054972290?e=1672272000&v=beta&t=OWxFd3-xlAWL5AVNxe4ARY_WLWq8ubbr-9TUqJqKFQE"/>](http://ibm.com/")
 
 **Software Engineer** \
 [**IBM**](http://ibm.com/) • Full-time \
